@@ -14,7 +14,8 @@ O objetivo é registrar minha evolução diária em lógica de programação e p
 ---
 
 ## 📂 Estrutura do Repositório
-- `lista1/` → exercícios introdutórios (variáveis, entrada/saída,).  
+- `lista1/` → exercícios introdutórios (variáveis, entrada/saída).  
+- `lista2/` → estruturas condicionais (operações básicas). 
 ---
 
 ## 🔧 Tecnologias Utilizadas
